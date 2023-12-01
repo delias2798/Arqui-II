@@ -13,3 +13,18 @@ C:\Users\DELIA\Documents\TEC\II Semestre 2023\Arqui II\quiz3\obj\Debug\net7.0\re
 C:\Users\DELIA\Documents\TEC\II Semestre 2023\Arqui II\quiz3\obj\Debug\net7.0\quiz3.pdb
 C:\Users\DELIA\Documents\TEC\II Semestre 2023\Arqui II\quiz3\obj\Debug\net7.0\quiz3.genruntimeconfig.cache
 C:\Users\DELIA\Documents\TEC\II Semestre 2023\Arqui II\quiz3\obj\Debug\net7.0\ref\quiz3.dll
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\bin\Debug\net7.0\quiz3.exe
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\bin\Debug\net7.0\quiz3.deps.json
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\bin\Debug\net7.0\quiz3.runtimeconfig.json
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\bin\Debug\net7.0\quiz3.dll
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\bin\Debug\net7.0\quiz3.pdb
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.csproj.AssemblyReference.cache
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.AssemblyInfoInputs.cache
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.AssemblyInfo.cs
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.csproj.CoreCompileInputs.cache
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.dll
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\refint\quiz3.dll
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.pdb
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\quiz3.genruntimeconfig.cache
+C:\Users\DELIA\Documents\GitHub\Arqui-II\quiz3\obj\Debug\net7.0\ref\quiz3.dll

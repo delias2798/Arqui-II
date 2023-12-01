@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELIA\\Documents\\TEC\\II Semestre 2023\\Arqui II\\quiz3\\quiz3.csproj": {}
+    "C:\\Users\\DELIA\\Documents\\GitHub\\Arqui-II\\quiz3\\quiz3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELIA\\Documents\\TEC\\II Semestre 2023\\Arqui II\\quiz3\\quiz3.csproj": {
+    "C:\\Users\\DELIA\\Documents\\GitHub\\Arqui-II\\quiz3\\quiz3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELIA\\Documents\\TEC\\II Semestre 2023\\Arqui II\\quiz3\\quiz3.csproj",
+        "projectUniqueName": "C:\\Users\\DELIA\\Documents\\GitHub\\Arqui-II\\quiz3\\quiz3.csproj",
         "projectName": "quiz3",
-        "projectPath": "C:\\Users\\DELIA\\Documents\\TEC\\II Semestre 2023\\Arqui II\\quiz3\\quiz3.csproj",
+        "projectPath": "C:\\Users\\DELIA\\Documents\\GitHub\\Arqui-II\\quiz3\\quiz3.csproj",
         "packagesPath": "C:\\Users\\DELIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELIA\\Documents\\TEC\\II Semestre 2023\\Arqui II\\quiz3\\obj\\",
+        "outputPath": "C:\\Users\\DELIA\\Documents\\GitHub\\Arqui-II\\quiz3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
